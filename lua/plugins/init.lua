@@ -90,6 +90,10 @@ return {
     "pmizio/typescript-tools.nvim",
     dependencies = { "nvim-lua/plenary.nvim", "neovim/nvim-lspconfig" },
     opts = {},
+  },
+  {
+    'ThePrimeagen/vim-be-good',
+    lazy = false
   }
 
   -- {
